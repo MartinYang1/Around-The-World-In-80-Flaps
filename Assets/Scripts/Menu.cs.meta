@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b5969f0048c3225489ca0bb170ddf6ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioMixer: {instanceID: 0}
+  - gameLogic: {instanceID: 0}
+  - gameDifficulty: {instanceID: 0}
+  - score: {instanceID: 0}
+  - HighScore: {instanceID: 0}
+  - Easy: {instanceID: 0}
+  - Normal: {instanceID: 0}
+  - Hard: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
